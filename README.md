@@ -62,17 +62,13 @@ During implementation, several troubleshooting cases were analyzed and documente
 
 ## Repository Structure
 
-```text
-.
-├── report/
-│   └── Thesis report files
-│
-├── poster/
-│   └── Thesis poster
-│
-├── presentation/
-│   └── Jury presentation file
+The repository currently includes the following project files:
 
+- `FKG_BANK_THESIS_REPORT.pdf` — Final thesis report
+- `FKG_BANK_THESIS_REPORT.docx` — Editable thesis report
+- `JURI_SUNUM_DOSYASI.pptx` — Jury presentation file
+- `THESIS_POSTER.pdf` — Thesis poster
+- `README.md` — Project documentation
 
 ## Project Outcome
 
@@ -80,9 +76,9 @@ As a result of this project, a secure, scalable, and manageable enterprise netwo
 
 ## Authors
 
-* Kutlu Çağan Akın
-* Furkan İyem
-* Gülnaz Karaca
+- Kutlu Çağan Akın
+- Furkan İyem
+- Gülnaz Karaca
 
 ## Supervisor
 
