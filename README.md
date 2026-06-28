@@ -72,16 +72,7 @@ During implementation, several troubleshooting cases were analyzed and documente
 │
 ├── presentation/
 │   └── Jury presentation file
-│
-├── topology/
-│   └── Network topology images
-│
-├── configs/
-│   └── Representative device configurations
-│
-└── test-results/
-    └── Connectivity and security validation screenshots
-```
+
 
 ## Project Outcome
 
